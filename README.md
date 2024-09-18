@@ -5,17 +5,26 @@ main-branch organization.
 
 ## Installation
 
-Install the gem and add to the application's Gemfile by executing:
+1. Add the main_branch_shared_rubocop_config gem as a development dependency to your
+   project by doing either:
 
-```shell
-bundle add main_branch_shared_rubocop_config
-```
+     Add the following line to your gem's gemspec:
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+     ```ruby
+     spec.add_development_dependency 'main_branch_shared_rubocop_config'
+     ```
 
-```shell
-gem install main_branch_shared_rubocop_config
-```
+     OR add the following line to your Gemfile:
+
+     ```ruby
+     gem "main_branch_shared_rubocop_config", :group => :development
+     ```
+
+2. Install the gem as a dependency by running:
+
+     ```shell
+     bundle install
+     ```
 
 ## Usage
 
