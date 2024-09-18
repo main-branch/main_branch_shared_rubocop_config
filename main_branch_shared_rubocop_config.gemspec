@@ -31,4 +31,6 @@ Gem::Specification.new do |spec|
   spec.bindir = "exe"
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
+
+  spec.add_development_dependency 'create_github_release', '~> 1.5'
 end
