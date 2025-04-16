@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2](https://github.com/main-branch/main_branch_shared_rubocop_config/compare/v0.1.1...v0.1.2) (2025-04-16)
+
+
+### Bug Fixes
+
+* Automate commit-to-publish workflow ([52e606b](https://github.com/main-branch/main_branch_shared_rubocop_config/commit/52e606bf22502bdddc94aa4c2d74de703b462442))
+
 ## v0.1.1 (2024-10-04)
 
 [Full Changelog](https://github.com/main-branch/main_branch_shared_rubocop_config/compare/v0.1.0..v0.1.1)
