@@ -1,0 +1,22 @@
+{
+  "bootstrap-sha": "cfc5ce2e8ff3df4a3e88b0c39760f94cd5aa905c",
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "main_branch_shared_rubocop_config",
+      "changelog-path": "CHANGELOG.md",
+      "version-file": "lib/main_branch_shared_rubocop_config/version.rb",
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true,
+      "draft": false,
+      "prerelease": false,
+      "include-component-in-tag": false
+    }
+  },
+  "plugins": [
+    {
+      "type": "sentence-case"
+    }
+  ],
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
