@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.3](https://github.com/main-branch/main_branch_shared_rubocop_config/compare/v0.1.2...v0.1.3) (2025-04-17)
+
+
+### Bug Fixes
+
+* Do not trigger build workflows after merging to main or for release PRs ([99971ff](https://github.com/main-branch/main_branch_shared_rubocop_config/commit/99971ff18ec468d24406f2215a429bd6c1eead4c))
+* Do not trigger build workflows after merging to main or for release PRs ([2b8ef2b](https://github.com/main-branch/main_branch_shared_rubocop_config/commit/2b8ef2bf669212d4aa7cd20532fb1ffe9af1abb9))
+
 ## [0.1.2](https://github.com/main-branch/main_branch_shared_rubocop_config/compare/v0.1.1...v0.1.2) (2025-04-16)
 
 
